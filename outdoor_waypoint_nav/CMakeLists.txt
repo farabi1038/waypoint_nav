@@ -13,6 +13,8 @@ find_package(catkin REQUIRED COMPONENTS
   tf
   roslib
   roslaunch
+  robot_localization
+  
 )
 
 catkin_package()
